@@ -1,4 +1,4 @@
-## OTP Helper
+## OTO Helper
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](https://github.com/vrook-co/oto-video/blob/master/LICENSE)
 
