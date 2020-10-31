@@ -1,4 +1,4 @@
-## OTO Helper
+## OTO Video
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](https://github.com/vrook-co/oto-video/blob/master/LICENSE)
 
